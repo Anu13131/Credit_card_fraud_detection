@@ -17,7 +17,7 @@ The model achieved an accuracy of 99.98%, precision of 99.97%, and recall score 
 
 
 ### Deployment
-In order to deploy the fraud detection model, I have used streamlit.
+In order to deploy the fraud detection model, we have used streamlit.
 
 Here is the link to the web application: https://chandrima1-credit-card-fraud-detection-model-app-rjtw3p.streamlit.app/
 
@@ -36,8 +36,5 @@ V1-V28: may be result of a PCA Dimensionality reduction to protect user identiti
 ###  Acknowledgements
 
 The dataset used in this project was obtained from Kaggle.
-The code for this project was inspired by the Credit Card Fraud Detection project by Data Flair.
-
-https://www.youtube.com/watch?v=239TaYSQI-s&t=1440s
 
 Feel free to contribute to the project by opening pull requests or creating issues if you encounter any problems.
